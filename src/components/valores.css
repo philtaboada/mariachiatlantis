@@ -1,0 +1,12 @@
+.valores{
+    background-image: url('../assets/bgImage.png');
+}
+
+.forms{
+    background-image: url('../assets/bimage2.png');
+}
+
+#btn-back-to-top {
+    position: fixed;
+    display: none;
+  }
